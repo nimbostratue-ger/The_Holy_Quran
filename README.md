@@ -43,8 +43,9 @@
 
 ## 📸 Screen Shot
 
-*Add a screenshot image here (use Markdown image syntax)*
-
+<a>
+  <img src="The%20Holy%20Quran%20v_1.0.png" alt="The Holy Quran App" width="600" />
+</a>
 ---
 
 ## 🎬 Video Tutorial
