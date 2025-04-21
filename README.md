@@ -20,15 +20,13 @@
   - Access various Arabic interpretations (tafsir) (الوصول إلى تفسيرات مختلفة باللغة العربية (التفسير))  
 
 - ✅ **Repetition Options** (خيارات التكرار)  
-  - Repeat individual verses or entire surahs (تكرار الآيات الفردية أو السور بالكامل)  
-  - Choose the number of repetitions for easier memorization (اختيار عدد التكرارات لتسهيل الحفظ)
+  - Repeat individual verses or entire surahs for easier memorization (تكرار الآيات الفردية أو السور لتسهيل الحفظ)  
 
 - ✅ **Advanced Search** (البحث المتقدم)  
   - Search accurately for word occurrences throughout the Quran (البحث بدقة عن تكرار الكلمات في القرآن الكريم)
 
 - ✅ **Surah Statistics** (إحصائيات السور)  
-  - Get the number of letters in each surah (معرفة عدد الحروف في كل سورة)  
-  - View detailed metadata for every surah (عرض بيانات وصفية مفصلة لكل سورة)
+  - View detailed metadata for every surah like letters number ( عرض بيانات وصفية مفصلة لكل سورة مثل عدد الحروف)
 
 ---
 
