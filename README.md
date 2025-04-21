@@ -17,7 +17,7 @@
 
 - ✅ **Translations & Tafsir** (الترجمات والتفسير)  
   - View verse translations in multiple languages (عرض ترجمات الآيات بعدة لغات)  
-  - Access various Arabic interpretations (tafsir) (الوصول إلى تفسيرات مختلفة باللغة العربية (التفسير))  
+  - Access various Arabic interpretations (tafsir) (الوصول إلى تفسيرات مختلفة باللغة العربية )  
 
 - ✅ **Repetition Options** (خيارات التكرار)  
   - Repeat individual verses or entire surahs for easier memorization (تكرار الآيات الفردية أو السور لتسهيل الحفظ)  
@@ -26,7 +26,7 @@
   - Search accurately for word occurrences throughout the Quran (البحث بدقة عن تكرار الكلمات في القرآن الكريم)
 
 - ✅ **Surah Statistics** (إحصائيات السور)  
-  - View detailed metadata for every surah like letters number ( عرض بيانات وصفية مفصلة لكل سورة مثل عدد الحروف)
+  - View detailed metadata for every surah like letters number (عرض بيانات وصفية مفصلة لكل سورة مثل عدد الحروف)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 📸 Screen Shot (لقطة الشاشة)  
+## 📸 Screen Shot (صورة عن التطبيق)  
 
 <a>
   <img src="The%20Holy%20Quran%20v_1.0.png" alt="The Holy Quran App" width="600" />
@@ -56,18 +56,17 @@
 
 ## 💻 Installation & Usage (التثبيت والاستخدام)  
 
-📥 Download the app installer from the [Releases](https://github.com/your-repo/releases) section.  
+📥 Download the app installer from the release section(قم بتحميل مثبت التطبيق من قسم الإصدارات)
+[Releases- الإصدارات](https://github.com/your-repo/releases) section. 
 *Replace with your actual GitHub releases URL.*  
-📥 قم بتحميل مثبت التطبيق من قسم [الإصدارات](https://github.com/your-repo/releases).  
-*استبدل برابط الإصدارات الفعلي في GitHub.*
+📥 (https://github.com/your-repo/releases).  
 
 ---
 
 ## 🤝 Support the Project (دعم المشروع)  
 
-If you find this app helpful and would like to support its development, you can donate here:  
-[💖 Donate via PayPal](https://www.paypal.com/paypalme/imadrizk) (إذا كنت تجد هذا التطبيق مفيدًا وترغب في دعم تطويره، يمكنك التبرع هنا)
-
+If you find this app helpful and would like to support its development, you can donate here: (إذا كنت تجد هذا التطبيق مفيدًا وترغب في دعم تطويره، يمكنك التبرع هنا)
+[💖 Donate via PayPal](https://www.paypal.com/paypalme/imadrizk) 
 ---
 
 This version places the Arabic translation of the sentence **"If you find this app helpful and would like to support its development, you can donate here:"** right beside it in parentheses. Let me know if there’s anything else you need!
