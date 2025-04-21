@@ -45,13 +45,15 @@
 <a>
   <img src="The%20Holy%20Quran%20v_1.0.png" alt="The Holy Quran App" width="600" />
 </a>
+
 ---
 
 ## 🎬 Video Tutorial (دليل الفيديو)  
 
 👉 Click the image below to watch the tutorial on YouTube (اضغط على الصورة أدناه لمشاهدة الدليل على يوتيوب)  
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-*Replace `YOUR_VIDEO_ID` with your actual YouTube video ID*  
+<a>
+  <img src="Holy_Quran.png" alt="The Holy Quran App" width="600" />
+</a> 
 
 ---
 
@@ -59,7 +61,7 @@
 
 📥 Download the app installer from the release section(قم بتحميل مثبت التطبيق من قسم الإصدارات)
 
-[Releases- الإصدارات](https://github.com/your-repo/releases) section. 
+[Releases- الإصدارات](https://github.com/nimbostratue-ger/The_Holy_Quran/releases) section. 
 *Replace with your actual GitHub releases URL.*  
 📥 (https://github.com/your-repo/releases).  
 
