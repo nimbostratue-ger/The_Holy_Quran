@@ -1,6 +1,7 @@
 # 📖 The Holy Quran App 🕌 (تطبيق القرآن الكريم 🕌)  
 
-**The Holy Quran App** is a feature-rich desktop application built to help users read, study, and listen to the Quran in a highly customizable and interactive way. Whether you're memorizing verses, exploring translations, or listening to beautiful recitations, this app provides a smooth and engaging experience.  
+**The Holy Quran App** is a feature-rich desktop application built to help users read, study, and listen to the Quran in a highly customizable and interactive way. Whether you're memorizing verses, exploring translations, or listening to beautiful recitations, this app provides a smooth and engaging experience. 
+
 **تطبيق القرآن الكريم** هو تطبيق سطح مكتب غني بالميزات يساعد المستخدمين في قراءة ودراسة والاستماع إلى القرآن بطريقة قابلة للتخصيص بشكل كبير وتفاعلية. سواء كنت تحفظ الآيات، أو تستعرض الترجمات، أو تستمع إلى تلاوات جميلة، يوفر هذا التطبيق تجربة سلسة وجذابة.
 
 ---
