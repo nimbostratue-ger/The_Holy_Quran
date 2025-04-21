@@ -66,6 +66,7 @@
 ## 🤝 Support the Project (دعم المشروع)  
 
 If you find this app helpful and would like to support its development, you can donate here: (إذا كنت تجد هذا التطبيق مفيدًا وترغب في دعم تطويره، يمكنك التبرع هنا)
+
 [💖 Donate via PayPal](https://www.paypal.com/paypalme/imadrizk) 
 ---
 
