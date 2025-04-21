@@ -58,6 +58,7 @@
 ## 💻 Installation & Usage (التثبيت والاستخدام)  
 
 📥 Download the app installer from the release section(قم بتحميل مثبت التطبيق من قسم الإصدارات)
+
 [Releases- الإصدارات](https://github.com/your-repo/releases) section. 
 *Replace with your actual GitHub releases URL.*  
 📥 (https://github.com/your-repo/releases).  
@@ -70,5 +71,3 @@ If you find this app helpful and would like to support its development, you can 
 
 [💖 Donate via PayPal](https://www.paypal.com/paypalme/imadrizk) 
 ---
-
-This version places the Arabic translation of the sentence **"If you find this app helpful and would like to support its development, you can donate here:"** right beside it in parentheses. Let me know if there’s anything else you need!
