@@ -59,11 +59,9 @@
 
 ## 💻 Installation & Usage (التثبيت والاستخدام)  
 
-📥 Download the app installer from the release section(قم بتحميل مثبت التطبيق من قسم الإصدارات)
+📥 Download the app installer from the release section (قم بتحميل مثبت التطبيق من قسم الإصدارات)
 
-[Releases- الإصدارات](https://github.com/nimbostratue-ger/The_Holy_Quran/releases) section. 
-*Replace with your actual GitHub releases URL.*  
-📥 (https://github.com/your-repo/releases).  
+[Releases- الإصدارات](https://github.com/nimbostratue-ger/The_Holy_Quran/releases)
 
 ---
 
