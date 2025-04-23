@@ -51,9 +51,7 @@
 ## 🎬 Video Tutorial (دليل الفيديو)  
 
 👉 Click the image below to watch the tutorial on YouTube (اضغط على الصورة أدناه لمشاهدة الدليل على يوتيوب)  
-<a>
-  <img src="Holy_Quran.png" alt="The Holy Quran App" width="600" />
-</a> 
+[![Watch the video](https://img.youtube.com/vi/kkccUSVMP4U/0.jpg)](https://youtu.be/kkccUSVMP4U)
 
 ---
 
